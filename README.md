@@ -1,32 +1,43 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://linkedin.com/in/ibrahim-destiny-a24062268)
+
 <h1 align="center">Hi 👋, I'm Ibrahim Destiny</h1>
-<h3 align="center">A seasoned software engineer based in Famagusta, Cyprus</h3>
+<h3 align="center">A seasoned Full Stack Engineer from Famagusta, Cyprus</h3>
 
-<ul>
-  <li>🔭 I’m currently a Full Stack Engineer at SkyDesk Inc.</li>
-  <li>🌱 I have 4 years of experience with expertise in PHP, Node.js, and TypeScript.</li>
-  <li>👯 I’m passionate about creating efficient and scalable solutions using NoSQL and MySQL databases.</li>
-  <li>📄 Check out my experiences below and feel free to connect!</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=destyrhado9034&label=Profile%20views&color=0e75b6&style=flat" alt="destyrhado9034" /> </p>
 
-<h3 align="left">Experience:</h3>
+<p align="left"> <a href="https://twitter.com/ibrahimdestiny" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimdestiny?logo=twitter&style=for-the-badge" alt="ibrahimdestiny" /></a> </p>
 
-<h4>Full Stack Engineer at SkyDesk Inc (Sep 2021 - Present)</h4>
-<ul>
-  <li>Developed and maintained fullstack solutions using Nest.js and TypeScript.</li>
-  <li>Utilized TypeORM and Sequelize for database migration and schema building.</li>
-  <li>Designed and implemented RESTful APIs using Nest.js, collaborated with cross-functional teams.</li>
-  <li>Developed and maintained client-side applications using React and React Native.</li>
-  <li>Debugged and resolved complex issues related to performance, scalability, and security.</li>
-  <li>Contributed to the improvement of the team's development processes.</li>
-  <li>Skills: TypeScript, TypeORM, Nest.js, Sequelize, React, React Native, AWS.</li>
-</ul>
+- 🔭 I’m currently working at **SkyDesk Inc.**
 
-<!-- Repeat the above structure for other experiences -->
+- 🌱 I’m always learning and staying up-to-date with the latest industry trends and advancements.
+
+- 👯 I’m open to collaboration on innovative projects.
+
+- 🤝 I’m looking for help with challenging technical problems.
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/destyrhado9034)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@ibrahimdestiny9034)
+
+- 💬 Ask me about **TypeScript, Node.js, PHP, AWS**
+
+- 📫 How to reach me: [ibrahimdestiny9034@gmail.com](mailto:ibrahimdestiny9034@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:ibrahimdestiny9034@gmail.com">Email</a> |
-  <a href="linkedin.com/in/ibrahim-destiny-a24062268">LinkedIn</a>
+  <a href="https://linkedin.com/in/ibrahim-destiny-a24062268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ibrahim-destiny-a24062268" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/> </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
 
