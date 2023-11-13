@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destyrhado9034&label=Profile%20views&color=0e75b6&style=flat" alt="destyrhado9034" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ibrahimdestiny" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimdestiny?logo=twitter&style=for-the-badge" alt="ibrahimdestiny" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Destyrhado" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimdestiny?logo=twitter&style=for-the-badge" alt="ibrahimdestiny" /></a> </p>
 
 - 🔭 I’m currently working at **SkyDesk Inc.**
 
